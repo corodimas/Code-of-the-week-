@@ -13,5 +13,5 @@ int main()
             sum +=1;
         }
     }
-    printf("%d",sum);
+    printf("They need to shake hand  %d times",sum);
 }
